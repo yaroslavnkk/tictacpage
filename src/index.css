@@ -45,6 +45,7 @@ h1 {
   font-size: 3rem;
   margin: 0 auto 3rem auto;
   color: #3f3b00;
+  text-align: center;
 }
 
 #game-container {
